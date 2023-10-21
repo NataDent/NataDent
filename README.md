@@ -1,6 +1,4 @@
-<div id="header" align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=450&height=120&lines=Hi+there!++I'm+Nataliia+Cherkashyna.+;A'm+a+full+stack++web+developer+from+Ukraine.+;And+I+welcome+you+to+my++git+hub++)](https://git.io/typing-svg)
-</div>
+
 <!--
 **NataDent/NataDent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
