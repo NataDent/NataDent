@@ -1,11 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=450&height=120&lines=Hi+there!++I'm+Nataliia+Cherkashyna.+;A'm+a+full+stack++web+developer+from+Ukraine.+;And+I+welcome+you+to+my++git+hub++)](https://git.io/typing-svg)
-
----
-
-<div id="badges" align="center">
- <a href="www.linkedin.com/in/nataliia-cherkashyna-webdev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
-  <a href="https://t.me/n_cherkashyna"><img src="https://img.shields.io/badge/Telegram-deepskyblue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-</div>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=450&height=120&lines=Hi!+I'm+Nataliia+Cherkashyna%2C+;beginner+full+stack+web+developer.;I+welcome+you+to+my+git+hub!)](https://git.io/typing-svg)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NataDent&style=plastic&color=blueviolet" alt=""/></div>
 
