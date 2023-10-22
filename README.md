@@ -1,5 +1,14 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=450&height=120&lines=Hi!+I'm+Nataliia+Cherkashyna%2C+;beginner+full+stack+web+developer.;I+welcome+you+to+my+git+hub!)](https://git.io/typing-svg)
+<div id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3000&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Nataliia+Cherkashyna%2C+;beginner+full+stack+web+developer+from+Ukraine.;I+welcome+you+to+my+git+hub!" alt="Typing SVG" /></a>
 
+</div>
+
+---
+
+<div id="badges" align="center">
+<a href="www.linkedin.com/in/nataliia-cherkashyna-webdev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+ <a href="https://t.me/n_cherkashyna"><img src="https://img.shields.io/badge/Telegram-deepskyblue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+</div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NataDent&style=plastic&color=blueviolet" alt=""/></div>
 
 ---
@@ -8,7 +17,7 @@
 ◦ 📧 How to reach me: [cherkashyna.n@gmail.com]()  
 ◦ ✨ Motto:
 
-> "My future is greater than my past"
+> 𝑴𝒚 𝒇𝒖𝒕𝒖𝒓𝒆 𝒊𝒔 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒕𝒉𝒂𝒏 𝒎𝒚 𝒑𝒂𝒔𝒕
 
 ---
 
