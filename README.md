@@ -6,7 +6,7 @@
 ---
 
 <div id="badges" align="center">
-<a href="www.linkedin.com/in/nataliia-cherkashyna-webdev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+<a href="https://www.linkedin.com/in/nataliia-cherkashyna-webdev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
  <a href="https://t.me/n_cherkashyna"><img src="https://img.shields.io/badge/Telegram-deepskyblue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NataDent&style=plastic&color=blueviolet" alt=""/></div>
