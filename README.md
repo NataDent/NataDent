@@ -14,7 +14,7 @@
 ---
 
 ◦ 🧠 Now I'm studying at GoIT on the Full Stack Developer course and starting Node.js  
-◦ 📧 How to reach me: [cherkashyna.n@gmail.com]()  
+◦ 📧 How to reach me: [cherkashyna.n@gmail.com](mailto:cherkashyna.n@gmail.com)  
 ◦ ✨ Motto:
 
 > 𝑴𝒚 𝒇𝒖𝒕𝒖𝒓𝒆 𝒊𝒔 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒕𝒉𝒂𝒏 𝒎𝒚 𝒑𝒂𝒔𝒕
