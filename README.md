@@ -13,7 +13,7 @@
 
 ---
 
-◦ 🧠 Now I'm studying at GoIT on the Full Stack Developer course and starting Node.js  
+◦ 🧠  I've finished  studying at GoIT on the Full Stack Developer course   
 ◦ 📧 How to reach me: [cherkashyna.n@gmail.com](mailto:cherkashyna.n@gmail.com)  
 ◦ ✨ Motto:
 
